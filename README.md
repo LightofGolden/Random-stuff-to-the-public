@@ -14,3 +14,5 @@ Pitch is up to roughly 0.74 semitones (by using a song, the Transpose chrome ext
 <br>
 <br>
 This semitones and hertz will technically be like the PAL standard without speed.
+<br>
+Use this information if you wanna make a 2000's edit. Like Fruitger Aero
