@@ -12,7 +12,11 @@ Pitch is up to roughly 0.74 semitones (by using a song, the Transpose chrome ext
 <br>
 440.0hz ==> 459.2hz
 <br>
+If you wanna speed up the BPM to PAL's speed without using the converter, you must add an exact amount of 6.354 bpm into your normal song BPM. And reverse, if you wanna slow down a PAL audio to the NTSC/Normal audio, you must apply a timestretch of 95.34%.
+<br>
+For example: 130bpm ==> 136.354bpm
 <br>
 This semitones and hertz will technically be like the PAL standard without speed.
+<br>
 <br>
 Use this information or the converter if you wanna make a 2000's edit. Like Fruitiger Aero
