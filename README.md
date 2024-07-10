@@ -8,11 +8,11 @@ Doing a bit of research, NTSC uses 29.97fps while PAL uses 25fps. This results i
 <br>
 To match that faster video rate, typically converted, NTSC sped up by 1.0466% ===> PAL. This results in higher pitch and shortening the runtime of the film.
 <br>
-Pitch is up to roughly 0.74 semitones (by using a song, the Transpose chrome extension and ![this](https://sloxet.github.io/PAL-Pitch-Converter).)
+Pitch is up to roughly 0.74 semitones (by using a song, the Transpose chrome extension and ![this PAL Pitch Converter](https://sloxet.github.io/PAL-Pitch-Converter).)
 <br>
 440.0hz ==> 459.2hz
 <br>
 <br>
 This semitones and hertz will technically be like the PAL standard without speed.
 <br>
-Use this information if you wanna make a 2000's edit. Like Fruitiger Aero
+Use this information or the converter if you wanna make a 2000's edit. Like Fruitiger Aero
